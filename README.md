@@ -1,33 +1,24 @@
-## Estudo de Operadores java 
+# Estudo de Operadores java 
 
 Os operadores são símbolos especiais, que tem um significado próprio para a linguagem e estão associados a determinadas operações, podem ser:
 
-# Atribuição =
+## Atribuição =
 
-# Aritméticos + - * /
+## Aritméticos + - * /
 
-# Unário
-unário de valor positivo (+)
-unário de valor negativo (-)
-incremento (++)
-decremento (--)
-lógico de negação (!)
+## Unário
+Unário de valor positivo (+), unário de valor negativo (-), incremento (++), decremento (--), lógico de negação (!).
 
-# Ternário ou condicional (?)
+## Ternário ou condicional (?)
 
-# Relacionais 
-Igual a (==)
-Diferente de(!=)
-Maior que (>)
-Menor que (<)
-Maior ou igual (>=)
-Menor ou igual (<=) 
+## Relacionais 
+Igual a (==), Diferente de(!=), Maior que (>), Menor que (<), Maior ou igual (>=), Menor ou igual (<=).
 
-# Lógicos
-Operador "E" - &&
+## Lógicos
+Operador "E" - &&, 
 Operador "ou" -  ||
 
-## Na prática
+# Na prática
 
 O código java contido nesse repositório põe em prática os operadores aprendidos na aula, com incremento, decremento e ao final uso prático aplicado ao direito penal.
 
