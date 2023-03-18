@@ -1,23 +1,34 @@
-<<<<<<< HEAD
-## Getting Started
+## Estudo de Operadores java 
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Os operadores são símbolos especiais, que tem um significado próprio para a linguagem e estão associados a determinadas operações, podem ser:
 
-## Folder Structure
+- Atribuição =
 
-The workspace contains two folders by default, where:
+- Aritméticos + - * /
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+-- Unário
+unário de valor positivo (+)
+unário de valor negativo (-)
+incremento (++)
+decremento (--)
+lógico de negação (!)
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+-Ternário ou condicional (?)
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+- Relacionais 
+Igual a (==)
+Diferente de(!=)
+> Maior que (>)
+< Menor que (<)
+>= Maior ou igual (>=)
+<= Menor ou igual (<=) 
 
-## Dependency Management
+- Lógicos
+Operador "E" - &&
+Operador "ou" -  ||
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
-=======
-# OperadoresJava
-Estudo de operadores, incremento e decremento na linguagem java
->>>>>>> 005f9da13937f30b189f3e95cb28286ba02c73c7
+## Na prática
+
+O código java contido nesse repositório põe em prática os operadores aprendidos na aula, com incremento, decremento e ao final uso prático aplicado ao direito penal.
+
+Por Eduardo Ferreira (@basiern), através do curso "Aprendendo sintaxe java" com o dio.me
