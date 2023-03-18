@@ -1,5 +1,12 @@
 public class Operadores {
-    
+    /**
+     * <h1>Métodos</h1h>
+     * Esse repositório trata de estudo dos métodos na linguagem java
+     * @author Eduardo Ferreira | @basiern
+     * @version 1.0
+     * @param args
+     * @throws Exception
+     */
     public static void main(String[] args) throws Exception {
     
         //vamos estudar incremento
@@ -8,16 +15,18 @@ public class Operadores {
 
         //Para incrementar:
         numero = numero + 1;
-        //agora o número é 6, pois foi somado +1
-        //A expressão acima também pode ser utilizada em forma de incremento, conforme abaixo:
+        /*agora o número é 6, pois foi somado +1
+        A expressão acima também pode ser utilizada em forma de incremento, conforme abaixo:
+        */
         numero++;
-        //Como se utilizou uma função e um incremento, o resultado esperado deve ser 7 
-        //Outra alternativa é incrementar direto na impressão, assim:
+        /*Como se utilizou uma função e um incremento, o resultado esperado deve ser 7 
+        *Outra alternativa é incrementar direto na impressão, assim:
+        */
         System.out.println("Quanto é 5 +1 +1 +1? " + ++ numero);
-        //O resultado deve ser 8
+        /*O resultado deve ser 8
 
-        //Para decrementar, é só fazer o inverso:
-
+        Para decrementar, é só fazer o inverso:
+        */
         numero = numero -1;
         numero--;
         System.out.println("Quanto é 8 -1 -1 -1? "+ -- numero);
@@ -54,9 +63,9 @@ public class Operadores {
 
         //Por fim, os operadores lógicos
 
-        //Para esse exemplo, vamos usar o direito penal
-        //A diferença entre furto e roubo é a presença de violencia OU grave ameaça
-
+        /*Para esse exemplo, vamos usar o direito penal
+        *A diferença entre furto e roubo é a presença de violencia OU grave ameaça
+        */
         boolean graveameaca = true;
         boolean violencia = true;
 
