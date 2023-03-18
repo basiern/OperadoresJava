@@ -2,28 +2,28 @@
 
 Os operadores são símbolos especiais, que tem um significado próprio para a linguagem e estão associados a determinadas operações, podem ser:
 
-- Atribuição =
+# Atribuição =
 
-- Aritméticos + - * /
+# Aritméticos + - * /
 
--- Unário
+# Unário
 unário de valor positivo (+)
 unário de valor negativo (-)
 incremento (++)
 decremento (--)
 lógico de negação (!)
 
--Ternário ou condicional (?)
+# Ternário ou condicional (?)
 
-- Relacionais 
+# Relacionais 
 Igual a (==)
 Diferente de(!=)
-> Maior que (>)
-< Menor que (<)
->= Maior ou igual (>=)
-<= Menor ou igual (<=) 
+Maior que (>)
+Menor que (<)
+Maior ou igual (>=)
+Menor ou igual (<=) 
 
-- Lógicos
+# Lógicos
 Operador "E" - &&
 Operador "ou" -  ||
 
